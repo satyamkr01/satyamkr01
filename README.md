@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyam Kumar.
-- 👀 I’m interested in coding and reasearch.
-- 🌱 I’m currently working as Software Engineer.
+- 👀 I’m interested in Android App Development and research.
+- 🌱 I’m currently working as an Android Developer.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me ... LinkedIn, GitHub, Portfolio Website.
 
